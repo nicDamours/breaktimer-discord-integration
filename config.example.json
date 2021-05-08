@@ -1,5 +1,6 @@
 {
   "token": "",
   "prefix": "!",
-  "replyToUnknown": false
+  "replyToUnknown": false,
+  "discordApiUrl": ""
 }
